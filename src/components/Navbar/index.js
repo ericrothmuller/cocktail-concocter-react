@@ -11,7 +11,7 @@ const Navbar = () => {
             Home
           </NavLink>
           <NavLink to="/donate">
-            Donate
+            Support Us
           </NavLink>
           <NavLink to="/contact">
             Contact
